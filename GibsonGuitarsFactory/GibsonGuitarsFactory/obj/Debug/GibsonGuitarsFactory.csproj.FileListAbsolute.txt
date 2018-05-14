@@ -1,0 +1,10 @@
+C:\Users\Jarod\Dropbox\Design Patterns\GibsonGuitarsFactory\GibsonGuitarsFactory\obj\Debug\GibsonGuitarsFactory.csprojResolveAssemblyReference.cache
+C:\Users\Jarod\Dropbox\Design Patterns\GibsonGuitarsFactory\GibsonGuitarsFactory\obj\Debug\GibsonGuitarsFactory.GuitarFactoryForm.resources
+C:\Users\Jarod\Dropbox\Design Patterns\GibsonGuitarsFactory\GibsonGuitarsFactory\obj\Debug\GibsonGuitarsFactory.Properties.Resources.resources
+C:\Users\Jarod\Dropbox\Design Patterns\GibsonGuitarsFactory\GibsonGuitarsFactory\obj\Debug\GibsonGuitarsFactory.csproj.GenerateResource.Cache
+C:\Users\Jarod\Dropbox\Design Patterns\GibsonGuitarsFactory\GibsonGuitarsFactory\obj\Debug\GibsonGuitarsFactory.csproj.CoreCompileInputs.cache
+C:\Users\Jarod\Dropbox\Design Patterns\GibsonGuitarsFactory\GibsonGuitarsFactory\bin\Debug\GibsonGuitarsFactory.exe.config
+C:\Users\Jarod\Dropbox\Design Patterns\GibsonGuitarsFactory\GibsonGuitarsFactory\bin\Debug\GibsonGuitarsFactory.exe
+C:\Users\Jarod\Dropbox\Design Patterns\GibsonGuitarsFactory\GibsonGuitarsFactory\bin\Debug\GibsonGuitarsFactory.pdb
+C:\Users\Jarod\Dropbox\Design Patterns\GibsonGuitarsFactory\GibsonGuitarsFactory\obj\Debug\GibsonGuitarsFactory.exe
+C:\Users\Jarod\Dropbox\Design Patterns\GibsonGuitarsFactory\GibsonGuitarsFactory\obj\Debug\GibsonGuitarsFactory.pdb
