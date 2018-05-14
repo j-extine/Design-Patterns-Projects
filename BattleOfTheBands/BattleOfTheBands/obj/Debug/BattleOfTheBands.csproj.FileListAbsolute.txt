@@ -1,0 +1,10 @@
+C:\Users\Jarod\Dropbox\Design Patterns\BattleOfTheBands\BattleOfTheBands\obj\Debug\BattleOfTheBands.csprojResolveAssemblyReference.cache
+C:\Users\Jarod\Dropbox\Design Patterns\BattleOfTheBands\BattleOfTheBands\obj\Debug\BattleOfTheBands.Properties.Resources.resources
+C:\Users\Jarod\Dropbox\Design Patterns\BattleOfTheBands\BattleOfTheBands\obj\Debug\BattleOfTheBands.csproj.GenerateResource.Cache
+C:\Users\Jarod\Dropbox\Design Patterns\BattleOfTheBands\BattleOfTheBands\obj\Debug\BattleOfTheBands.csproj.CoreCompileInputs.cache
+C:\Users\Jarod\Dropbox\Design Patterns\BattleOfTheBands\BattleOfTheBands\bin\Debug\BattleOfTheBands.exe.config
+C:\Users\Jarod\Dropbox\Design Patterns\BattleOfTheBands\BattleOfTheBands\bin\Debug\BattleOfTheBands.exe
+C:\Users\Jarod\Dropbox\Design Patterns\BattleOfTheBands\BattleOfTheBands\bin\Debug\BattleOfTheBands.pdb
+C:\Users\Jarod\Dropbox\Design Patterns\BattleOfTheBands\BattleOfTheBands\obj\Debug\BattleOfTheBands.exe
+C:\Users\Jarod\Dropbox\Design Patterns\BattleOfTheBands\BattleOfTheBands\obj\Debug\BattleOfTheBands.pdb
+C:\Users\Jarod\Dropbox\Design Patterns\BattleOfTheBands\BattleOfTheBands\obj\Debug\BattleOfTheBands.BattleOfTheBandsForm.resources
