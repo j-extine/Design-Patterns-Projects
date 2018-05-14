@@ -1,0 +1,10 @@
+C:\Users\Jarod\Dropbox\Design Patterns\LibraryFacadeDemo\LibraryFacadeDemo\bin\Debug\LibraryFacadeDemo.exe.config
+C:\Users\Jarod\Dropbox\Design Patterns\LibraryFacadeDemo\LibraryFacadeDemo\bin\Debug\LibraryFacadeDemo.exe
+C:\Users\Jarod\Dropbox\Design Patterns\LibraryFacadeDemo\LibraryFacadeDemo\bin\Debug\LibraryFacadeDemo.pdb
+C:\Users\Jarod\Dropbox\Design Patterns\LibraryFacadeDemo\LibraryFacadeDemo\obj\Debug\LibraryFacadeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jarod\Dropbox\Design Patterns\LibraryFacadeDemo\LibraryFacadeDemo\obj\Debug\LibraryFacadeDemo.LibraryForm.resources
+C:\Users\Jarod\Dropbox\Design Patterns\LibraryFacadeDemo\LibraryFacadeDemo\obj\Debug\LibraryFacadeDemo.Properties.Resources.resources
+C:\Users\Jarod\Dropbox\Design Patterns\LibraryFacadeDemo\LibraryFacadeDemo\obj\Debug\LibraryFacadeDemo.csproj.GenerateResource.Cache
+C:\Users\Jarod\Dropbox\Design Patterns\LibraryFacadeDemo\LibraryFacadeDemo\obj\Debug\LibraryFacadeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jarod\Dropbox\Design Patterns\LibraryFacadeDemo\LibraryFacadeDemo\obj\Debug\LibraryFacadeDemo.exe
+C:\Users\Jarod\Dropbox\Design Patterns\LibraryFacadeDemo\LibraryFacadeDemo\obj\Debug\LibraryFacadeDemo.pdb

@@ -1,0 +1,10 @@
+C:\Users\Jarod\Dropbox\Design Patterns\RpgCharacterComposite\RpgCharacterComposite\bin\Debug\RpgCharacterComposite.exe.config
+C:\Users\Jarod\Dropbox\Design Patterns\RpgCharacterComposite\RpgCharacterComposite\bin\Debug\RpgCharacterComposite.exe
+C:\Users\Jarod\Dropbox\Design Patterns\RpgCharacterComposite\RpgCharacterComposite\bin\Debug\RpgCharacterComposite.pdb
+C:\Users\Jarod\Dropbox\Design Patterns\RpgCharacterComposite\RpgCharacterComposite\obj\Debug\RpgCharacterComposite.csprojResolveAssemblyReference.cache
+C:\Users\Jarod\Dropbox\Design Patterns\RpgCharacterComposite\RpgCharacterComposite\obj\Debug\RpgCharacterComposite.Properties.Resources.resources
+C:\Users\Jarod\Dropbox\Design Patterns\RpgCharacterComposite\RpgCharacterComposite\obj\Debug\RpgCharacterComposite.csproj.GenerateResource.Cache
+C:\Users\Jarod\Dropbox\Design Patterns\RpgCharacterComposite\RpgCharacterComposite\obj\Debug\RpgCharacterComposite.csproj.CoreCompileInputs.cache
+C:\Users\Jarod\Dropbox\Design Patterns\RpgCharacterComposite\RpgCharacterComposite\obj\Debug\RpgCharacterComposite.exe
+C:\Users\Jarod\Dropbox\Design Patterns\RpgCharacterComposite\RpgCharacterComposite\obj\Debug\RpgCharacterComposite.pdb
+C:\Users\Jarod\Dropbox\Design Patterns\RpgCharacterComposite\RpgCharacterComposite\obj\Debug\RpgCharacterComposite.RpgCharacterForm.resources
