@@ -1,0 +1,9 @@
+C:\Users\Jarod\Dropbox\Design Patterns\WeaponIterator\WeaponIterator\bin\Debug\WeaponIterator.exe
+C:\Users\Jarod\Dropbox\Design Patterns\WeaponIterator\WeaponIterator\bin\Debug\WeaponIterator.pdb
+C:\Users\Jarod\Dropbox\Design Patterns\WeaponIterator\WeaponIterator\obj\Debug\WeaponIterator (JAROD-PC's conflicted copy 2017-11-04).csprojResolveAssemblyReference.cache
+C:\Users\Jarod\Dropbox\Design Patterns\WeaponIterator\WeaponIterator\obj\Debug\WeaponIterator.dmgCalcForm.resources
+C:\Users\Jarod\Dropbox\Design Patterns\WeaponIterator\WeaponIterator\obj\Debug\WeaponIterator.Properties.Resources.resources
+C:\Users\Jarod\Dropbox\Design Patterns\WeaponIterator\WeaponIterator\obj\Debug\WeaponIterator (JAROD-PC's conflicted copy 2017-11-04).csproj.GenerateResource.Cache
+C:\Users\Jarod\Dropbox\Design Patterns\WeaponIterator\WeaponIterator\obj\Debug\WeaponIterator (JAROD-PC's conflicted copy 2017-11-04).csproj.CoreCompileInputs.cache
+C:\Users\Jarod\Dropbox\Design Patterns\WeaponIterator\WeaponIterator\obj\Debug\WeaponIterator.exe
+C:\Users\Jarod\Dropbox\Design Patterns\WeaponIterator\WeaponIterator\obj\Debug\WeaponIterator.pdb

@@ -1,0 +1,10 @@
+C:\Users\Jarod\Dropbox\Design Patterns\SquareStrategyDemo\SquareStrategyDemo\bin\Debug\SquareStrategyDemo.exe.config
+C:\Users\Jarod\Dropbox\Design Patterns\SquareStrategyDemo\SquareStrategyDemo\bin\Debug\SquareStrategyDemo.exe
+C:\Users\Jarod\Dropbox\Design Patterns\SquareStrategyDemo\SquareStrategyDemo\bin\Debug\SquareStrategyDemo.pdb
+C:\Users\Jarod\Dropbox\Design Patterns\SquareStrategyDemo\SquareStrategyDemo\obj\Debug\SquareStrategyDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jarod\Dropbox\Design Patterns\SquareStrategyDemo\SquareStrategyDemo\obj\Debug\SquareStrategyDemo.SquareForm.resources
+C:\Users\Jarod\Dropbox\Design Patterns\SquareStrategyDemo\SquareStrategyDemo\obj\Debug\SquareStrategyDemo.Properties.Resources.resources
+C:\Users\Jarod\Dropbox\Design Patterns\SquareStrategyDemo\SquareStrategyDemo\obj\Debug\SquareStrategyDemo.csproj.GenerateResource.Cache
+C:\Users\Jarod\Dropbox\Design Patterns\SquareStrategyDemo\SquareStrategyDemo\obj\Debug\SquareStrategyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jarod\Dropbox\Design Patterns\SquareStrategyDemo\SquareStrategyDemo\obj\Debug\SquareStrategyDemo.exe
+C:\Users\Jarod\Dropbox\Design Patterns\SquareStrategyDemo\SquareStrategyDemo\obj\Debug\SquareStrategyDemo.pdb
